@@ -1,0 +1,47 @@
+Task 1: Adverse Drug Reaction (ADR) Identification Basics
+1. Findings from the image: Patient case analysis
+
+The image presents a clinical scenario involving a 45-year-old female patient experiencing symptoms after starting medication.
+
+Parameter	Details
+Patient	Female, 45 years old
+Presenting symptoms	Skin rash, itching, nausea, and dizziness
+Medication 1	Amoxicillin, started 5 days ago
+Medication 2	Paracetamol, taken as needed
+Timeline	Amoxicillin started on Day −5; symptoms appeared around Day −2 and remain present on Day 0
+Primary concern	A possible adverse drug reaction associated with amoxicillin
+2. Suspected adverse drug reaction
+
+Most suspected drug: Amoxicillin.
+
+Reasoning:
+
+Temporal relationship: The patient started amoxicillin five days ago, and the symptoms developed approximately three days after treatment began.
+Clinical presentation: Skin rash and itching are consistent with a possible hypersensitivity reaction to amoxicillin. Nausea and dizziness may also be associated with medication use.
+Alternative explanation: Paracetamol is another potential suspect, but the image does not specify when it was taken relative to symptom onset.
+Causality assessment: The available information suggests a possible amoxicillin-associated ADR. However, the relationship cannot be confirmed without further clinical information, including the patient's allergy history, medication doses, and response to withdrawal.
+3. Findings from the video
+
+The provided video is titled Understanding Adverse Drug Reactions & Pharmacovigilance, presented by Dr Nirmal George. It concerns the principles of ADRs and pharmacovigilance. The video page was accessible, but its full transcript was not available for direct verification. Therefore, the following assessment uses the relevant pharmacovigilance principles rather than attributing unverified statements to the presenter.
+
+The key principles relevant to this case are:
+
+Adverse Drug Reaction (ADR): A harmful, unintended response to a medicine used at normally recommended doses.
+Adverse event versus ADR: An adverse event occurs during treatment but is not necessarily caused by the medicine. An ADR implies a suspected causal relationship.
+Temporal relationship: Assess whether symptoms developed after the suspected medicine was started.
+Dechallenge: Observe whether symptoms improve after the suspected medicine is withdrawn under appropriate medical supervision.
+Alternative causes: Consider other medicines, underlying illnesses, allergies, and other possible explanations.
+Pharmacovigilance: Suspected ADRs should be documented and reported through the appropriate drug-safety monitoring system. India's Pharmacovigilance Programme of India (PvPI) accepts reports of suspected reactions, including those whose causal relationship has not been confirmed.
+4. Final assessment
+
+Most likely suspected ADR: Amoxicillin-associated hypersensitivity reaction.
+
+Evidence supporting the suspicion: The patient developed a rash and itching after starting amoxicillin, with nausea and dizziness also reported.
+
+Causality conclusion: Possible ADR; insufficient information to establish a definite causal relationship.
+
+Recommended action: The patient should receive prompt medical assessment. If an allergic reaction is suspected, further doses should not be taken until a healthcare professional advises on safe treatment. Difficulty breathing, swelling of the face or tongue, or fainting requires emergency medical attention. The suspected reaction should be documented and reported through the appropriate pharmacovigilance channel.
+
+Conclusion
+
+Based on the image, amoxicillin is the leading suspected drug because the patient's symptoms developed after treatment began. The video's subject and relevant pharmacovigilance principles support evaluating the timing of symptoms, the suspected medicine, alternative causes, and the need for ADR reporting. However, the available evidence does not establish that amoxicillin definitively caused the reaction.
